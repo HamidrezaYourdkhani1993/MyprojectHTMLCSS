@@ -1,0 +1,6 @@
+1. As the first step I use a minimal design for this website and this prototype made by Figma 
+as you can see when you open it the wallpaper page is changing automatically and there are many features in this case like hovering for
+the navigation bar and another button when you move the mouse you can see the changing color and other options after that you can scroll the products
+2. In the original page when you click on the premium product you move to the other page which is the list of all products and you have many options for filtering and changing the type of show list products 
+3. Finally, when you click one of the special products (animation product) then you move to the other page which is the detail product page
+ This project has prepared for  HTML & CSS course  
